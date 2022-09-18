@@ -9,16 +9,16 @@ Virtual Internship - Android Application Development Using Kotlin
 
 ### All Android Projects:
 
-* [Amphibians App](https://github.com/smartinternz02/SPSGP-75201-Virtual-Internship---Android-Application-Development-Using-Kotlin/tree/main/Amphibians-App)
+* [Amphibians App](https://github.com/smartinternz02/SPSGP-75201-Virtual-Internship---Android-Application-Development-Using-Kotlin/tree/main/Amphibians-App.zip)
 
-* [Dogglers App](https://github.com/smartinternz02/SPSGP-75201-Virtual-Internship---Android-Application-Development-Using-Kotlin/tree/main/Dogglers-App)
+* [Dogglers App](https://github.com/smartinternz02/SPSGP-75201-Virtual-Internship---Android-Application-Development-Using-Kotlin/tree/main/Dogglers-App.zip)
 
-* [Forage App](https://github.com/smartinternz02/SPSGP-75201-Virtual-Internship---Android-Application-Development-Using-Kotlin/tree/main/Forage-App)
+* [Forage App](https://github.com/smartinternz02/SPSGP-75201-Virtual-Internship---Android-Application-Development-Using-Kotlin/tree/main/Forage-App.zip)
 
-* [Lemonade App](https://github.com/smartinternz02/SPSGP-75201-Virtual-Internship---Android-Application-Development-Using-Kotlin/tree/main/Lemonade-App)
+* [Lemonade App](https://github.com/smartinternz02/SPSGP-75201-Virtual-Internship---Android-Application-Development-Using-Kotlin/tree/main/Lemonade-App.zip)
 
-* [Lunch Tray App](https://github.com/smartinternz02/SPSGP-75201-Virtual-Internship---Android-Application-Development-Using-Kotlin/tree/main/LunchTray-App)
+* [Lunch Tray App](https://github.com/smartinternz02/SPSGP-75201-Virtual-Internship---Android-Application-Development-Using-Kotlin/tree/main/LunchTray-App.zip)
 
-* [Water Me App](https://github.com/smartinternz02/SPSGP-75201-Virtual-Internship---Android-Application-Development-Using-Kotlin/tree/main/WaterMe-App)
+* [Water Me App](https://github.com/smartinternz02/SPSGP-75201-Virtual-Internship---Android-Application-Development-Using-Kotlin/tree/main/WaterMe-App.zip)
 
 
